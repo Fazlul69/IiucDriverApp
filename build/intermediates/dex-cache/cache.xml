@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\android\workProject(affable)\FinalProject\IiucDriverApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8e8f3e597dc0bf4f704b48597bccad99acbed858">
+        <dex dex="D:\android\workProject(affable)\FinalProject\IiucDriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_32940ba90168e634078e8829c3d7b943336b7a0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\workProject(affable)\FinalProject\IiucDriverApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\android\workProject(affable)\FinalProject\IiucDriverApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b08fb107e572e6e33d61379c793bfe7db261e64e\classes.dex" />
+    </item>
+
+</items>

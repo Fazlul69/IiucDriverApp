@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "288622563113",
+    "firebase_url": "https://iiuc-bus-tracking.firebaseio.com",
+    "project_id": "iiuc-bus-tracking",
+    "storage_bucket": "iiuc-bus-tracking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288622563113:android:fe13643982f23e0d",
+        "android_client_info": {
+          "package_name": "com.example.fazlulhoque.iiucdriverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288622563113-ubvc0oauete1nk7ih1bkt7dm6dg1ujv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fazlulhoque.iiucdriverapp",
+            "certificate_hash": "e890aa4d3bfc5b33dd91792be8be0662f81e6278"
+          }
+        },
+        {
+          "client_id": "288622563113-1t7pbqbmh7gpmas5crq1tbj3oh8pah11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALT5tx7cd06pN0WsyzndoSHH0NGCXYawM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288622563113-1t7pbqbmh7gpmas5crq1tbj3oh8pah11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

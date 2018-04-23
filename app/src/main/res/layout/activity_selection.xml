@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.fazlulhoque.iiucdriverapp.SelectionActivity">
+
+
+    <RadioGroup
+        android:id="@+id/genderGrp"
+        android:layout_width="255dp"
+        android:layout_height="250dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="70dp"
+        android:layout_marginTop="80dp"
+        tools:ignore="RtlHardcoded">
+
+        <RadioButton
+            android:id="@+id/maleRadio"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="Male"
+            android:textSize="25dp"
+            tools:ignore="SpUsage"/>
+
+        <RadioButton
+            android:id="@+id/femaleRadio"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="Female"
+            android:textSize="25dp"
+            tools:ignore="HardcodedText"/>
+
+        <RadioButton
+            android:id="@+id/teacherRadio"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="Teacher"
+            android:textSize="25dp"
+            tools:ignore="SpUsage"/>
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btnGoTo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/genderGrp"
+        android:layout_below="@+id/genderGrp"
+        android:text="Go To Map"
+        tools:layout_editor_absoluteX="102dp"
+        tools:layout_editor_absoluteY="337dp" />
+</RelativeLayout>
